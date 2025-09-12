@@ -1,0 +1,6 @@
+secret.yaml
+.env
+
+logs/
+
+*.c
