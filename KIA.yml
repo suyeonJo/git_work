@@ -1,6 +1,7 @@
 team: KIA
 
-manager: 이승엽 
+manager: 이승엽
+backup_manager: 김종국
 
 members:
 - 양현종
